@@ -3,7 +3,7 @@
 
 # SHA256 Hasher
 
-**a Calculator with 8 operations**
+**hash a string to SHA256**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/Go-Golang-00ADD8?logo=go&logoColor=white)
