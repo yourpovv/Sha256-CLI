@@ -9,7 +9,7 @@
 ![Language](https://img.shields.io/badge/Go-Golang-00ADD8?logo=go&logoColor=white)
 
 
-<img width="979" height="512" alt="preview" src="" />
+<img width="979" height="512" alt="preview" src="https://github.com/user-attachments/assets/2ec38e3a-d714-4a85-8156-267e64074def" />
 
 </div>
 
